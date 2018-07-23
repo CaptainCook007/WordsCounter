@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tv.codely.java_bootstrap.GreeterShould" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-06-28T08:03:43" hostname="DESKTOP-A3FBM4F" time="0.01">
+  <properties/>
+  <testcase name="greet_with_a_hello_message_to_the_name_it_receives()" classname="tv.codely.java_bootstrap.GreeterShould" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
